@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.android.coptica">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".InterfaceActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.Relative" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".WordsMenu"
+            android:label="قائمة الكلمات" />
+        <activity android:name=".Letters" />
+        <activity
+            android:name=".Colors"
+            android:label="تعلم الألوان" />
+        <activity
+            android:name=".NumbersActivity"
+            android:label="تعلم الأرقام" />
+        <activity
+            android:name=".Family"
+            android:label="تعلم أفراد العائلة" />
+        <activity
+            android:name=".LearnLetter"
+            android:label="تعلم الحروف" />
+        <activity
+            android:name=".Animals"
+            android:label="تعلم الحيوانات" />
+        <activity
+            android:name=".Body"
+            android:label="تعلم أجزاء الجسم" />
+        <activity android:name=".Splash">
+            <intent-filter>
+                <category android:name="android.intent.category.LAUNCHER" />
+
+                <action android:name="android.intent.action.MAIN" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".GameActivity"
+            android:label="ألعاب : مستوي أول"/>
+        <activity android:name=".Game2Activity"
+            android:label="ألعاب : مستوي تاني"></activity>
+    </application>
+
+</manifest>

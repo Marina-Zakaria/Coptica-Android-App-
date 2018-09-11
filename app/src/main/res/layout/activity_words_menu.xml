@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true">
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+
+        >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="يلا نتعلم شوية كلمات"
+            android:textSize="25sp"
+            />
+
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:onClick="goToColors"
+            android:background="@drawable/colors"
+            android:layout_margin="16dp"
+
+            />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="50sp"
+            android:layout_margin="16dp"
+            android:background="@drawable/animal_btn"
+            android:onClick="goToAnimals"
+
+            />
+
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:onClick="goToNumbers"
+                android:background="@drawable/numbers_btn"
+                android:layout_margin="16dp"
+
+                />
+
+
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+android:background="@drawable/body_btn"
+                android:layout_margin="16dp"
+android:onClick="goToBody"
+                />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:background="@drawable/family"
+            android:layout_margin="16dp"
+            android:onClick="goToFamily"
+            />
+        </LinearLayout>
+
+
+
+</ScrollView>
+

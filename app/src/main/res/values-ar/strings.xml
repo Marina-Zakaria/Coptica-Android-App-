@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Coptica</string>
+    <string name="introduction">مرحبا بك في كوبتيكا !!!</string>
+    <string name="words">تعلم الكلمات</string>
+    <string name="letter1">الفا</string>
+    <string name="letter2">فيتا</string>
+    <string name="words_title">يلا نتعلم شوية كلمات</string>
+    <string name="colors">الالوان</string>
+    <string name="animals">الحيوانات</string>
+    <string name="family">العائلة</string>
+    <string name="numbers">الارقام</string>
+    <string name="phrases">عبارات</string>
+    <string name="body_parts">اجزاء الجسم</string>
+
+</resources>

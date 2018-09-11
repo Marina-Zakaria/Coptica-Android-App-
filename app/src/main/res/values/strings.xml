@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">Coptica</string>
+    <string name="introduction">Welcome to COPTICA !!!</string>
+    <string name="summary">Coptic Egyptian is the latest stage of the Egyptian language,
+        a northern Afro-Asiatic language spoken in Egypt until at least the 17th century.
+        Egyptian began to be written in the Coptic alphabet,
+        an adaptation of the Greek alphabet with the addition of six or seven signs from demotic to represent Egyptian sounds the
+        Greek language did not have, in the first century AD</string>
+    <string name="letters">LEARN LETTERS</string>
+    <string name="words">LEARN WORDS</string>
+    <string name="games">PLAY GAMES</string>
+    <string name="lets_go">LETS START LEARNING</string>
+    <string name="letter1">ALFA</string>
+    <string name="letter2">VETA</string>
+    <string name="letter3">GAMMA</string>
+    <string name="letter4">DELTA</string>
+    <string name="letter5">EI</string>
+    <string name="letter6">SOO</string>
+    <string name="letter7">XZITA</string>
+    <string name="letter8">EITA</string>
+    <string name="letter9">THITA</string>
+    <string name="letter10">YOTA</string>
+    <string name="letter11">KAPA</string>
+    <string name="letter12">LOLA</string>
+    <string name="letter13">MEI</string>
+    <string name="letter14">NEI</string>
+    <string name="letter15">EXY</string>
+    <string name="letter16">OO</string>
+    <string name="letter17">PY</string>
+    <string name="letter18">RO</string>
+    <string name="letter19">SIMA</string>
+    <string name="letter20">TAV</string>
+    <string name="letter21">EPSLON</string>
+    <string name="letter22">FEI</string>
+    <string name="letter23">KEI</string>
+    <string name="letter24">EPSY</string>
+    <string name="letter25">OMIGA</string>
+
+    <string name="letter26">SHAY</string>
+    <string name="letter27">FAY</string>
+    <string name="letter28">KHAY</string>
+    <string name="letter29">HORY</string>
+
+    <string name="letter30">GENGEA</string>
+    <string name="letter31">CHIMA</string>
+    <string name="letter32">TY</string>
+
+    <string name="words_title">Lets Learn Some Words</string>
+    <string name="colors">COLORS</string>
+    <string name="animals">ANIMALS</string>
+    <string name="family">FAMILY</string>
+    <string name="numbers">NUMBERS</string>
+    <string name="phrases">PHRASES</string>
+    <string name="body_parts">BODY PARTS</string>
+    <string name="red">RED</string>
+    <string name="white">WHITE</string>
+    <string name="black">BLACK</string>
+    <string name="green">GREEN</string>
+    <string name="yellow">YELLOW</string>
+    <string name="blue">BLUE</string>
+
+    <string name="one">ONE</string>
+    <string name="two">TWO</string>
+    <string name="three">THREE</string>
+    <string name="four">FOUR</string>
+    <string name="five">FIVE</string>
+    <string name="six">SIX</string>
+    <string name="seven">SEVEN</string>
+    <string name="eight">EIGHT</string>
+    <string name="nine">NINE</string>
+    <string name="ten">TEN</string>
+
+
+</resources>
